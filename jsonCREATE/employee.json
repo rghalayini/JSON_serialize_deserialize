@@ -1,1 +1,7 @@
-{"FirstName":"Sam","LastName":"Jackson","employeeID":5698523,"Designation":"Manager"}
+{
+  "FirstName": "Sam",
+  "LastName": "Jackson",
+  "employeeID": 5698523,
+  "Designation": "Manager"
+}
+

@@ -8,3 +8,5 @@ C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\obj\Debug\StudentJSON.cspr
 C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\obj\Debug\StudentJSON.csproj.CopyComplete
 C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\obj\Debug\StudentJSON.exe
 C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\obj\Debug\StudentJSON.pdb
+C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\bin\Debug\Nancy.dll
+C:\Users\remyg\Programming\API\JSONcreate\StudentJSON\bin\Debug\Nancy.xml
