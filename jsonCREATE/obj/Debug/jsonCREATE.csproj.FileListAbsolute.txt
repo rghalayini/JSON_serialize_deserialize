@@ -1,0 +1,10 @@
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\bin\Debug\jsonCREATE.exe.config
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\bin\Debug\jsonCREATE.exe
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\bin\Debug\jsonCREATE.pdb
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\obj\Debug\jsonCREATE.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\obj\Debug\jsonCREATE.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\obj\Debug\jsonCREATE.csproj.CopyComplete
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\obj\Debug\jsonCREATE.exe
+C:\Users\remyg\Programming\API\JSONcreate\jsonCREATE\obj\Debug\jsonCREATE.pdb
